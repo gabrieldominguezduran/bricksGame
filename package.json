@@ -1,0 +1,16 @@
+{
+  "name": "bricksGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://gabrieldominguezduran.github.io/bricksgame",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
