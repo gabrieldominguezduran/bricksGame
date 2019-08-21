@@ -1,3 +1,3 @@
 # bricksGame
 
-Game made wit vanilla Js
+Game made with vanilla Js
